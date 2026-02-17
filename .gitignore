@@ -1,0 +1,13 @@
+
+# 🛡 3️⃣ .gitignore (Important)
+
+Create `.gitignore` file and add:
+
+```txt
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
